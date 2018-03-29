@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+    <string name="reset">RESET</string>
+    <string name="question_text">Try to identify the %1$s</string>
+    <string name="start">Start</string>
+    <string name="correct">%1$d Correct</string>
+    <string name="incorrect">%1$d Incorrect</string>
+    <string name="prompt_quiz">Welcome to the grocery games! press start to begin</string>
+</resources>
